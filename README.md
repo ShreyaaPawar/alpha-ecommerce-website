@@ -29,9 +29,9 @@ Alpha is a full-stack e-commerce web application that allows users to explore an
 |--------------|----------------|--------------|-------------|-------------------|
 | React.js     | Spring Boot    | PostgreSQL   | Amazon S3   | Razorpay API      |
 | Bootstrap    | RESTful APIs   | JPA/Hibernate|             | React Hot Toast   |
-| CSS          |                                             | Use State Hook    | 
-|              |                                             | Navigate Hook     |
-|              |                                             | Use Effect Hook   |
+| CSS          |                |              |             | Use State Hook    | 
+|              |                |              |             | Navigate Hook     |
+|              |                |              |             | Use Effect Hook   |
 
 ## 🚀 Getting Started
 
